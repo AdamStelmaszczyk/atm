@@ -15,7 +15,7 @@ Presentation: https://docs.google.com/presentation/d/1vuZ5K_S_m97DyilThh3fnGVGYh
 
 ## Run server locally
 
-`python manage.py runserver`
+`./manage.py runserver`
 
 ## Query the `/withdraw` endpoint
 
