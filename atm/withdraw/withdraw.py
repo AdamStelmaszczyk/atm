@@ -1,4 +1,4 @@
-notes = [100, 50, 20, 10]
+notes = [1000, 500, 100, 50, 20, 10]
 
 
 class NoteUnavailableException(Exception):
